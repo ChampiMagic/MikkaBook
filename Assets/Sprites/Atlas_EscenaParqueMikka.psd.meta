@@ -1,0 +1,829 @@
+fileFormatVersion: 2
+guid: 2aa248436a3b1fc498800af2d3803606
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mikka_Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1622
+        width: 459
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb330976c47ce194394ce50b299a9b73
+      internalID: 1695786789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Brazo_D
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1492
+        width: 159
+        height: 128
+      alignment: 9
+      pivot: {x: 0.21244274, y: 0.7645922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160976f332825a84bb94339fedefa2c6
+      internalID: -394621769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Brazo_
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1493
+        width: 122
+        height: 122
+      alignment: 9
+      pivot: {x: 0.6665632, y: 0.8053659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0273a91d458db2d4d815ef8541bf1728
+      internalID: 2011760449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_vicera
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1900
+        width: 288
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5411589, y: 0.09358594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06f49e1ca488644193e266fe6b5bf49
+      internalID: -2104271627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_coleta
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1683
+        width: 161
+        height: 190
+      alignment: 9
+      pivot: {x: 0.9207187, y: 0.811941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66de1575e4c4be74fb8da520c5c47537
+      internalID: 555023887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Flequillo_0
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1783
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c205f9e31a082442b703a55db0e7f2d
+      internalID: 1330708308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Flequillo_1
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1687
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101593d6d70347540b0c18ece204fff4
+      internalID: -739407698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Cejas
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1626
+        width: 179
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd05ea74d62c294fbc4c3f37dda0c3e
+      internalID: 1639084298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Ojos
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1568
+        width: 179
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963467eace2bfed4ca0914ff31ceeae1
+      internalID: -824000858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Boca
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1500
+        width: 98
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175bebfc407a7e943866a875e6e90465
+      internalID: 9890752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Pie_D
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1300
+        width: 171
+        height: 143
+      alignment: 9
+      pivot: {x: 0.35145676, y: 0.23947805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e718af83aceb0b49bdd674180615379
+      internalID: 1038133570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Pie_I
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1303
+        width: 171
+        height: 143
+      alignment: 9
+      pivot: {x: 0.6584464, y: 0.18026882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adc05d7dc41cc64d929862685629e12
+      internalID: -978548064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gato_Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1856
+        width: 322
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9135715a688c6204b835010cf51bcee9
+      internalID: 1122133795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gato_Cola
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1866
+        width: 87
+        height: 144
+      alignment: 9
+      pivot: {x: 0.4805361, y: 0.06489224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ddb41f1d0983949a115f77c0ddab99
+      internalID: -1008749559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gato_Ojos
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1780
+        width: 110
+        height: 47
+      alignment: 9
+      pivot: {x: 0.53078943, y: 0.46397108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d639b6b520519bd419af372f3e42a179
+      internalID: -1772688923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nube_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 360
+        width: 662
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c28a5f649dc4a478bc712fcdefd990
+      internalID: -362492300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nube_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 18
+        width: 668
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994740e9a76d1de48bac7fa8fa330056
+      internalID: -807879520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nube_1
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 669
+        width: 407
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f058a9c8f87c64eabb3de4b5efbbd7
+      internalID: -1702639901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja_1
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 377
+        width: 103
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae464522f28f2747bb89d392490d1eb
+      internalID: -2045162031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja_2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 242
+        width: 102
+        height: 93
+      alignment: 9
+      pivot: {x: 0.6236171, y: 0.41372222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df4db70300fe9941994733e96e71d1c
+      internalID: -2050551455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor_1
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 141
+        width: 74
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5202117, y: 0.4879399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9debb73cd92e85c40b2cc5057fc88f88
+      internalID: 1850395935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor_2
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 25
+        width: 72
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5155792, y: 0.48032114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec135a47a8907141992c6135c40161b
+      internalID: 750617493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pajaro_1
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 861
+        width: 137
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5951988, y: 0.085321985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fa668229e0a4f46956b5849246a76c
+      internalID: 781203781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pies_Pajaro_1
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 795
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ec885022f8af64c9bc220750b09c5c
+      internalID: -913295951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pajaro_2
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 771
+        width: 139
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ff00816a45cd747baa4271832b6c85
+      internalID: -161127892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cola_Pajaro_2
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 961
+        width: 62
+        height: 77
+      alignment: 9
+      pivot: {x: 0.72438294, y: 0.17253132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dcd20fec929cc45a4fa7428f7b0662
+      internalID: -400503477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_1
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 1703
+        width: 1406
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.8004838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6e35dbda5ecf1409a1da40f26d7f21
+      internalID: 420739459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_2
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1361
+        width: 1558
+        height: 323
+      alignment: 9
+      pivot: {x: 0.4986961, y: 0.86485076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bd545076b1bcb4a996b98ffad711c6
+      internalID: 1475496641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lineas_Viento
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 900
+        width: 1928
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538055406db9f5847a5a6ff1f1afa1f9
+      internalID: 20338163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 4
+        width: 1103
+        height: 803
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f78751284340424795fc683b70e9d48
+      internalID: 1746320110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entorno
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 10
+        width: 2058
+        height: 652
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c30276c73bf6740844cb2c99f9420a
+      internalID: -315784285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pies_Pajaro_1: -913295951
+      Mikka_Brazo_D: -394621769
+      Flor_2: 750617493
+      Mikka_Brazo_: 2011760449
+      Mikka_Flequillo_0: 1330708308
+      Hoja_2: -2050551455
+      Mikka_Pie_I: -978548064
+      Gato_Cuerpo: 1122133795
+      Mikka_Cuerpo: 1695786789
+      Lineas_Viento: 20338163
+      Nube_3: -362492300
+      Gato_Ojos: -1772688923
+      Mikka_Flequillo_1: -739407698
+      Mikka_vicera: -2104271627
+      Titulo_1: 420739459
+      Nube_1: -1702639901
+      Pajaro_1: 781203781
+      Mikka_Ojos: -824000858
+      Fondo: 1746320110
+      Hoja_1: -2045162031
+      Pajaro_2: -161127892
+      Gato_Cola: -1008749559
+      Nube_2: -807879520
+      Mikka_Boca: 9890752
+      Flor_1: 1850395935
+      Entorno: -315784285
+      Mikka_Cejas: 1639084298
+      Mikka_coleta: 555023887
+      Mikka_Pie_D: 1038133570
+      Titulo_2: 1475496641
+      Cola_Pajaro_2: -400503477
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
